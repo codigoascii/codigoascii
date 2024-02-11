@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm intern in Civil Engineering
+Passionate about my career and new technologies, I define myself as someone eager to learn with a strong ability to work collaboratively and always proactive.
+🌱 I’m currently learning js, css and data analyst
+
 
 <!--
 **codigoascii/codigoascii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
